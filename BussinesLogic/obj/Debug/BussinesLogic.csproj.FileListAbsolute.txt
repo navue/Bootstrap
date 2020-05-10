@@ -1,0 +1,44 @@
+C:\Users\USER\source\repos\MyProject\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\MyProject\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\nicol\Desktop\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.pdb
